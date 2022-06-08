@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0,1,2,3,4,5,6,7 python -m torch.distributed.launch --nproc_per_node=8 train.py --checkpoint_path 'work_dirs/2022-06-06/swin_base_patch4_window7_224_in22k-0.0001-224/2022-06-06_22:42:08/swin_base_patch4_window7_224_in22k-fold0_epoch_20' --backbone 'swin_base_patch4_window7_224_in22k' --use_meta --fix_backbone --max_epoch 10 --max_lr 1e-4
