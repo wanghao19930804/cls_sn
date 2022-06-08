@@ -34,7 +34,7 @@ cv2.setNumThreads(0)
 
 class Cfg():
     def __init__(self):
-        self.root = './input/snakeclef2022'
+        self.root = './input'
 
         self.use_TTA = False
         
