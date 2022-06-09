@@ -1,0 +1,2152 @@
+Sicily:0
+Queensland:1
+Amazonas:2
+Northern Cape:3
+Karas:4
+Languedoc-Roussillon:5
+Texas:6
+South Sulawesi:7
+Primorskiy:8
+Sisaket:9
+Bahia:10
+Limburg:11
+Tamil Nadu:12
+South-West Province:13
+Primorsko-Goranska:14
+Kotayk'i Marz:15
+Mara:16
+North Carolina:17
+Pennsylvania:18
+Liguria:19
+unknown:20
+Piedmont:21
+Otjozondjupa:22
+Rajasthan:23
+Gambela:24
+Apure:25
+Castille and Leon:26
+New Jersey:27
+Florida:28
+Illinois:29
+Arizona:30
+Guanacaste:31
+Rayong:32
+Chon Buri:33
+Bujumbura Mairie:34
+Upper Takutu-Upper Essequibo:35
+Shabwah:36
+Lempira:37
+Oregon:38
+Souss-Massa-Draa:39
+California:40
+Heredia:41
+Arkansas:42
+Napo:43
+Central Bohemia:44
+Montana:45
+Victoria:46
+Oaxaca:47
+Ma'an:48
+Midi-Pyrenees:49
+South Carolina:50
+New Mexico:51
+Cartago:52
+Colorado:53
+Massachusetts:54
+Tai Po:55
+Pastaza:56
+Bolivar:57
+Atsimo-Andrefana:58
+Presidente Hayes:59
+Boqueron:60
+Canindeyu:61
+Ihorombe:62
+Baja California:63
+Baja California Sur:64
+Mississippi:65
+Quintana Roo:66
+Braga:67
+Anosy:68
+Western Cape:69
+Saint-Louis:70
+Neembucu:71
+Misiones:72
+Georgia:73
+Loreto:74
+East Nusa Tenggara:75
+Trentino-Alto Adige:76
+Kigoma:77
+Sava:78
+Wisconsin:79
+Washington:80
+Chiang Mai:81
+Mexico:82
+Alaotra Mangoro:83
+Limpopo:84
+Saint John:85
+Colon:86
+Tocantins:87
+Hhohho:88
+Mpumalanga:89
+Lampang:90
+Menabe:91
+Comayagua:92
+Tanga:93
+Ontario:94
+San Luis Potosi:95
+Tamaulipas:96
+West Greece:97
+Falcon:98
+Coahuila:99
+Utah:100
+Managua:101
+Nevada:102
+Matabeleland North:103
+Alto Paraguay:104
+Kagera:105
+Eastern Cape:106
+Sonora:107
+British Columbia:108
+Bocas del Toro:109
+Indiana:110
+Jalisco:111
+Stann Creek:112
+Burgas:113
+KwaZulu-Natal:114
+England:115
+Aragon:116
+South Aegean:117
+Orellana:118
+Borough of Arima:119
+Campeche:120
+Santa Cruz:121
+Valencia:122
+Guyane:123
+Northern Territory:124
+New South Wales:125
+Andalusia:126
+Ranong:127
+Baalbek-Hermel:128
+Peloponnese:129
+Alberta:130
+Leiria:131
+Bulawayo:132
+Beqaa:133
+Olancho:134
+Cayo:135
+Bali:136
+Kentucky:137
+Aragua:138
+Catamarca:139
+Esmeraldas:140
+Itasy:141
+Boeny:142
+Vatovavy Fitovinany:143
+Taiwan:144
+Kuala Lumpur:145
+Kgalagadi:146
+Phangnga:147
+Chiapas:148
+Santiago Metropolitan:149
+Putumayo:150
+Puntarenas:151
+Mato Grosso do Sul:152
+Para:153
+Quiche:154
+Sinaloa:155
+Provence-Alpes-Cote d'Azur:156
+Johor:157
+Blagoevgrad:158
+Phetchaburi:159
+Taipei:160
+Chihuahua:161
+Nakhon Ratchasima:162
+Louisiana:163
+Lower Austria:164
+Sao Paulo:165
+Karlovacka:166
+Alajuela:167
+West Java:168
+Yucatan:169
+South Province:170
+Chuy:171
+Migori:172
+Tabasco:173
+San Salvador:174
+Cusco:175
+Guayas:176
+Western Australia:177
+Missouri:178
+Kerala:179
+Diana:180
+Madre de Dios:181
+Valle del Cauca:182
+Catalonia:183
+Zilinsky:184
+Limon:185
+Tochigi:186
+Santa Ana:187
+San Pedro:188
+Crimea:189
+San Jose:190
+Boaco:191
+Gyeonggi-do:192
+Abruzzo:193
+Sabah:194
+Gangwon-do:195
+Mato Grosso:196
+Morelos:197
+Trat:198
+Zadarska:199
+Al Batinah:200
+Rio Grande do Norte:201
+Prachuap Khiri Khan:202
+Masaya:203
+Cerro Largo:204
+Oriental:205
+Castille-La Mancha:206
+Yerevan:207
+Jiangsu Sheng:208
+Veracruz:209
+Mexico City:210
+Almaty Oblysy:211
+Qaraghandy:212
+Gracias a Dios:213
+Atlantico Norte (RAAN):214
+Michigan:215
+Central Serbia:216
+Tunapuna/Piarco:217
+Pahang:218
+North West:219
+Central:220
+New Hampshire:221
+Chaco:222
+Izabal:223
+Dodoma:224
+San Miguel:225
+Zambezi:226
+Panama:227
+Rivas:228
+Granada:229
+Amoron'i Mania:230
+Maharashtra:231
+Sangha-Mbaere:232
+Sonsonate:233
+Lautem:234
+Rhone-Alpes:235
+Gujarat:236
+Ciego de Avila:237
+Tokyo:238
+Meknes-Tafilalet:239
+New York:240
+Extremadura:241
+Gharb-Chrarda-Beni Hssen:242
+Wanchai:243
+Pays de la Loire:244
+Chuvashia:245
+Toledo:246
+Antioquia:247
+Vermont:248
+Baden-Wuerttemberg:249
+Morona-Santiago:250
+Chungcheongnam-do:251
+Zamora-Chinchipe:252
+Madang:253
+Copperbelt:254
+Pernambuco:255
+Tennessee:256
+Donetsk:257
+Acre:258
+Lorri:259
+Gauteng:260
+San Martin:261
+Shirak:262
+Hela:263
+Paijanne Tavastia:264
+Durango:265
+Cuscatlan:266
+Aguascalientes:267
+Sarawak:268
+South Australia:269
+Central Ostrobothnia:270
+Milne Bay:271
+Cochabamba:272
+Siem Reap:273
+Nuevo Leon:274
+Nueva Segovia:275
+Mae Hong Son:276
+Hesse:277
+Eastern:278
+Darien:279
+Oshana:280
+Kunene:281
+Demerara-Mahaica:282
+Hardap:283
+Queretaro:284
+North-West:285
+Kansas:286
+Sucumbios:287
+Harare:288
+Karnataka:289
+Carazo:290
+Chinandega:291
+Alabama:292
+Terengganu:293
+Chernihiv:294
+Vaestra Goetaland:295
+Manicaland:296
+Pirkanmaa:297
+Ohio:298
+Diyala:299
+Campania:300
+Mehedinti:301
+Central Region:302
+Nakhon Nayok:303
+Veszprem:304
+High-Basins:305
+Podlasie:306
+Wales:307
+Boumerdes:308
+Greater Poland Voivodeship:309
+Zlin:310
+Santa Barbara:311
+Manabi:312
+Saskatchewan:313
+Basilicate:314
+Central Kalimantan:315
+Licko-Senjska:316
+Rio Grande do Sul:317
+Guadalcanal:318
+East Macedonia and Thrace:319
+Smolyan:320
+Phongsali:321
+Champasak:322
+West Pomeranian Voivodeship:323
+Harju:324
+Pedernales:325
+Pinar del Rio:326
+Aosta Valley:327
+Tuen Mun:328
+Peten:329
+Mojkovac:330
+Opstina Savnik:331
+Kharkiv:332
+Maranhao:333
+Bar:334
+Eastern Highlands:335
+North Sumatra:336
+North Sulawesi:337
+Puno:338
+Analanjirofo:339
+La Libertad:340
+Colima:341
+Lombardy:342
+Al Kufrah:343
+Minas Gerais:344
+Matanzas:345
+Singida:346
+San Juan/Laventille:347
+Iringa:348
+Marsabit:349
+Guerrero:350
+La Pampa:351
+Turkana:352
+Veraguas:353
+Gelderland:354
+Atlantico Sur:355
+Choco:356
+Thua Thien-Hue:357
+Littoral:358
+Faro:359
+Orange Walk:360
+Loei:361
+Cross River:362
+Yunnan:363
+Pathum Thani:364
+Corrientes:365
+El Beni:366
+Kakamega:367
+Ararat:368
+Brokopondo:369
+Virginia:370
+Portalegre:371
+Ongtustik Qazaqstan:372
+Styria:373
+Central Jutland:374
+Central Macedonia:375
+Greater Accra:376
+Kiev:377
+Northern Ostrobothnia:378
+Belize:379
+Norte de Santander:380
+Murcia:381
+Antalya:382
+Bobonaro:383
+Ghanzi:384
+Nakhichevan:385
+Vayots' Dzori Marz:386
+Galicia:387
+Burgenland:388
+Galapagos:389
+Viana do Castelo:390
+Syunik'i Marz:391
+Mykolaiv:392
+Geghark'unik'i Marz:393
+Scotland:394
+Baladiyat ar Rayyan:395
+Liquica:396
+Federal District:397
+Gansu Sheng:398
+Govi-Altay:399
+Phra Nakhon Si Ayutthaya:400
+Mont-Liban:401
+Nebraska:402
+Mugla:403
+Southern Nations, Nationalities, and People's Region:404
+Afyonkarahisar:405
+Bourgogne:406
+South Denmark:407
+Chiriqui:408
+Ticino:409
+Cocle:410
+Ysyk-Koel:411
+Hidalgo:412
+Goias:413
+Embera:414
+Nizjnij Novgorod:415
+Michoacan:416
+Jihocesky:417
+Sing Buri:418
+Shandong Sheng:419
+Imbabura:420
+Orange Free State:421
+Balearic Islands:422
+Sint Eustatius:423
+Escuintla:424
+Tibesti:425
+Al Jizah:426
+Atsinanana:427
+Puebla:428
+Chubut:429
+Mimaropa:430
+Western Region:431
+Espirito Santo:432
+Los Rios:433
+Bogota D.C.:434
+Uva:435
+Cordoba:436
+Buenos Aires:437
+Rio de Janeiro:438
+Pichincha:439
+Australian Capital Territory:440
+Entre Rios:441
+Uttar Pradesh:442
+Oklahoma:443
+Rocha:444
+Ngounie:445
+Upper Matsiatra:446
+Western:447
+Tolima:448
+North Kalimantan:449
+Omusati:450
+Nacional:451
+Saint Paul:452
+Central Visayas:453
+Crete:454
+Agadez:455
+Latium:456
+Eastern Tobago:457
+Monte Cristi:458
+Rivera:459
+Zacatecas:460
+Kursk:461
+Jundubah:462
+Constanta:463
+Ash Shariqah:464
+Quebec:465
+Zufar:466
+Nakhon Si Thammarat:467
+Monte Plata:468
+Inagua:469
+Vladimir:470
+Surat Thani:471
+Belgorod:472
+Moskovskaya:473
+Ile-de-France:474
+Tverskaya:475
+North Dakota:476
+Quneitra:477
+Sara Buri:478
+Valais:479
+Arecibo:480
+Qubadli:481
+Zangilan Rayon:482
+Xocavand Rayonu:483
+Limousin:484
+Tartar Rayon:485
+Kalbacar Rayonu:486
+Bavaria:487
+Baki:488
+Nayarit:489
+Balakan Rayon:490
+Zaqatala:491
+Saint Gallen:492
+Aceh:493
+El Oro:494
+Astara:495
+Transbaikal Territory:496
+Rjazan:497
+Olomoucky:498
+Mazandaran:499
+Tatarstan:500
+Wallonia:501
+Zanzibar North:502
+Tak:503
+Corsica:504
+Republic of Karelia:505
+Usulutan:506
+Zealand:507
+Sancti Spiritus:508
+Kymenlaakso:509
+Khanty-Mansiyskiy Avtonomnyy Okrug:510
+Astrakhan:511
+Kedah:512
+Parana:513
+Ogooue-Ivindo:514
+Buenos Aires F.D.:515
+Tsuen Wan:516
+Guelmim-Es Smara:517
+Shefa:518
+Oued Ed-Dahab-Lagouira:519
+Adrar:520
+Kars:521
+Maine:522
+Melaky:523
+Maryland:524
+Ogooue-Maritime:525
+Jeollabuk-do:526
+Khyber Pakhtunkhwa:527
+Asturias:528
+Palauli:529
+English River:530
+Pasco:531
+Northern Region:532
+Manatuto:533
+Prachin Buri:534
+Sabaragamuwa:535
+San Luis:536
+Ratchaburi:537
+Mendoza:538
+Krabi:539
+Sofala:540
+Phuket:541
+Reunion:542
+North Province:543
+Zaire:544
+Kgatleng:545
+Perak:546
+Santo Domingo de los Tsachilas:547
+Couva-Tabaquite-Talparo:548
+Magdalena:549
+Barinas:550
+Saba:551
+Atakora:552
+Salta:553
+Santa Fe:554
+North Western:555
+Potaro-Siparuni:556
+Erongo:557
+Yoro:558
+Guarico:559
+Cahul:560
+Galati:561
+Kanchanaburi:562
+Rio Negro:563
+Lara:564
+Zaporizhia:565
+Atlantico:566
+Tulcea:567
+Brittany:568
+West Papua:569
+Santiago de Cuba:570
+Western Visayas:571
+Rheinland-Pfalz:572
+Loja:573
+Mongar:574
+Tacna:575
+Sofia:576
+Akershus:577
+Aquitaine:578
+Muhafazat al Fayyum:579
+Minnesota:580
+Fukuoka:581
+South Dakota:582
+Poitou-Charentes:583
+Roraima:584
+Miranda:585
+Chanthaburi:586
+Pozesko-Slavonska:587
+North Aegean:588
+Daejeon:589
+Ahuachapan:590
+Aragatsotn:591
+Namibe:592
+Carinthia:593
+Manica:594
+New Brunswick:595
+Capital Region:596
+Cantabria:597
+Gyeongsangnam-do:598
+Huehuetenango:599
+Central Aimak:600
+Central Sulawesi:601
+Friuli Venezia Giulia:602
+Kamphaeng Phet:603
+Arunachal Pradesh:604
+Emilia-Romagna:605
+Kranjska Gora:606
+Ogun:607
+Beja:608
+Likouala:609
+Bioko Sur:610
+Thessaly:611
+Veneto:612
+Manitoba:613
+Guanica:614
+Melaka:615
+Anse Boileau:616
+Anse Royale:617
+La Rioja:618
+Chiang Rai:619
+Sa Kaeo:620
+Formosa:621
+San Juan:622
+Neuquen:623
+Holguin:624
+Cortes:625
+Can Tho:626
+Telangana:627
+Upper River:628
+San Vicente:629
+West Kalimantan:630
+Bangkok:631
+Cesar:632
+Circonscription de Sigave:633
+Loyalty Islands:634
+Southern:635
+La Guajira:636
+Susah:637
+Madrid:638
+Khomas:639
+Rio Grande:640
+Odisha:641
+OErebro:642
+Larnaka:643
+Ramsey:644
+Caraga:645
+Lam Dong:646
+Marrakech-Tensift-Al Haouz:647
+Kanagawa:648
+Atlantida:649
+Bauchi:650
+Cundinamarca:651
+Quindio:652
+Bern:653
+Nong Khai:654
+Xekong:655
+Sha`biyat Nalut:656
+Epirus:657
+Brandenburg:658
+Salavan:659
+Gwangju:660
+Nara:661
+West New Britain:662
+Somogy:663
+Irkutsk:664
+Iowa:665
+Penang:666
+Asyut:667
+Suhaj:668
+Miyagi:669
+La Paz:670
+Chaguanas:671
+Sichuan:672
+Caldas:673
+Santa Elena:674
+Nord:675
+Guanajuato:676
+Bashkortostan:677
+National Capital:678
+Upper West:679
+Koh Kong:680
+Zhytomyr:681
+Lamphun:682
+Eastern Visayas:683
+West Virginia:684
+Lodz Voivodeship:685
+Moore's Island:686
+Lower Normandy:687
+Rondonia:688
+Volyn:689
+East Gobi Aymag:690
+Maria Trinidad Sanchez:691
+Arusha:692
+OEstergoetland:693
+Madanin:694
+New Ireland:695
+Phayao:696
+Chungcheongbuk-do:697
+Kukes:698
+Guangdong:699
+Sa'dah:700
+Lefkosia:701
+Limassol:702
+Kostroma:703
+Setubal:704
+Mashonaland West:705
+Centre:706
+Kouffo:707
+North Holland:708
+Saxony:709
+Goa:710
+Selangor:711
+Baucau:712
+Jeju-do:713
+Sila:714
+Coquimbo:715
+Tuscany:716
+Tasmania:717
+Huila:718
+Satun:719
+Morogoro:720
+Ariana:721
+Black Point:722
+Banten:723
+Biobio:724
+Samut Prakan:725
+Santander:726
+Sucre:727
+Ha Giang:728
+Hato Mayor:729
+Laikipia:730
+Ucayali:731
+Moquegua:732
+Kralovehradecky:733
+Mecklenburg-Vorpommern:734
+Northern:735
+Phetchabun:736
+Banzart:737
+Vlore:738
+Stockholm:739
+South Moravian:740
+Cherkasy:741
+Sabana Grande:742
+Tlaxcala:743
+Central Luzon:744
+Mangghystau:745
+South Sinai:746
+Haifa:747
+Igdir:748
+Nova Scotia:749
+Muhafazat Shamal Sina':750
+Vologda:751
+Krasnodarskiy:752
+Karachayevo-Cherkesiya:753
+Perm:754
+Saint Peter:755
+Odessa:756
+Zacapa:757
+The Marches:758
+Moyen-Ogooue:759
+Aargau:760
+Lankaran:761
+Vinnyts'ka:762
+Picardie:763
+Varsinais-Suomi:764
+Santarem:765
+Altai Krai:766
+Kankan:767
+Khakasiya:768
+Safaqis:769
+Andhra Pradesh:770
+Budva:771
+West Sumatra:772
+Tumbes:773
+Gorontalo:774
+Gaevleborg:775
+Bayqongyr Qalasy:776
+South Karelia:777
+Kilifi:778
+Altay:779
+Soedermanland:780
+Temburong:781
+Umbria:782
+Yuen Long:783
+Varna:784
+Wanica:785
+Assam:786
+Poltava:787
+More og Romsdal:788
+Ternopil:789
+Trang:790
+Samarqand:791
+Guantanamo:792
+Novosibirsk:793
+Chernivtsi:794
+Port Glaud:795
+Bengo:796
+Kakheti:797
+Sulawesi Tenggara:798
+Herrera:799
+Navarre:800
+Khammouan:801
+Ceara:802
+Vila Real:803
+Ha Tinh:804
+Ibb:805
+Madhya Pradesh:806
+Bolama and Bijagos:807
+Santa Catarina:808
+Durazno:809
+Ash Sharqiyah:810
+Az Zahirah:811
+Maule:812
+Lisbon:813
+Dakhlet Nouadhibou:814
+Maluku Utara:815
+Ancash:816
+Boyaca:817
+Paraiba:818
+Lofa:819
+Pando:820
+Francisco Morazan:821
+Binh Thuan:822
+Vientiane:823
+Cauca:824
+Alta Verapaz:825
+Far North:826
+Metlika:827
+Castelo Branco:828
+Leningrad:829
+Zanjan:830
+Samara:831
+Apulia:832
+Porto:833
+Shkoder:834
+Silesian Voivodeship:835
+Nitriansky:836
+Delaware:837
+Korce:838
+Fukui:839
+Eastern Province:840
+Penza:841
+North Karelia:842
+Overijssel:843
+Khon Kaen:844
+Guarda:845
+Jinotega:846
+Morobe:847
+Kosicky:848
+Grisons:849
+Alibori:850
+Banskobystricky:851
+Manus:852
+Tavush:853
+Sanliurfa:854
+Sardinia:855
+OEmnoegovi:856
+Khatlon:857
+Upper Austria:858
+Jeollanam-do:859
+Connecticut:860
+Coimbra:861
+Evora:862
+Sai Kung:863
+Vitebsk:864
+Kirov:865
+Calabria:866
+Inhambane:867
+Khanh Hoa:868
+Southern Region:869
+Buzau:870
+Skane:871
+Zhejiang Sheng:872
+East Java:873
+Tyrol:874
+Aydin:875
+Subcarpathian Voivodeship:876
+Lusaka:877
+Salzburg:878
+Sao Tome Island:879
+Izmir:880
+Splitsko-Dalmatinska:881
+Ulyanovsk:882
+North Rhine-Westphalia:883
+Ostfold:884
+Presovsky:885
+Kelantan:886
+Sud-Comoe:887
+Brjansk:888
+Kwale:889
+Kowloon City:890
+North Denmark:891
+Kherson:892
+Sibensko-Kniniska:893
+Sha Tin:894
+Orenburg:895
+Shizuoka:896
+Casanare:897
+Okinawa:898
+Balkh:899
+Gafsa:900
+Bomet:901
+Rostov:902
+Kara:903
+Loungnamtha:904
+Bas-Sassandra:905
+West Bengal:906
+Rio San Juan:907
+El Paraiso:908
+Battambang:909
+Southern Highlands:910
+Kandal:911
+Arequipa:912
+Uttaradit:913
+Wong Tai Sin:914
+Afar:915
+Al Wusta:916
+Kandahar:917
+Muhafazat ad Dakhiliyah:918
+Barahona:919
+Guatemala:920
+Masvingo:921
+Homa Bay:922
+Santiago del Estero:923
+Riau:924
+Ha`apai:925
+Bimini:926
+North Bank:927
+Coronie:928
+Araucania:929
+Los Santos:930
+Oued ed Dahab-Lagouira:931
+Bicol:932
+Rogaland:933
+Narok:934
+NCT:935
+Mayaro:936
+El Tarf:937
+Trelawny:938
+Makkah:939
+Kalmar:940
+Nakhon Sawan:941
+Madriz:942
+Kalmykiya:943
+Central and Western:944
+Nonthaburi:945
+Nan:946
+Capital:947
+Champagne-Ardenne:948
+Ajaria:949
+Binh Phuoc:950
+Bay Islands:951
+Volgograd:952
+Kouilou:953
+West Nusa Tenggara:954
+Beijing:955
+Ustecky:956
+Adana:957
+Fejer:958
+East Kalimantan:959
+Tamuning:960
+Isparta:961
+Cova Lima:962
+Himachal Pradesh:963
+Jerusalem:964
+Lesser Poland Voivodeship:965
+Sangre Grande:966
+Heilongjiang Sheng:967
+Saratov:968
+Dong Nai:969
+East Kazakhstan:970
+Zagrebacka:971
+Federation of Bosnia and Herzegovina:972
+Middle Govi:973
+Tongatapu:974
+North Central:975
+Amapa:976
+Nyanga:977
+Minsk:978
+Oppland:979
+Jalal-Abad:980
+Chongqing Shi:981
+Surin:982
+Auvergne:983
+Daegu:984
+Meta:985
+Mogilev:986
+Valparaiso:987
+Manyara:988
+Yaracuy:989
+Keryneia:990
+Narathiwat:991
+Omsk:992
+Shida Kartli:993
+Huambo:994
+Malanje:995
+Ruvuma:996
+Badakhshan:997
+Vinh Phuc:998
+Diego Martin:999
+Nimba:1000
+Hoa Binh:1001
+Quang Binh:1002
+Sha`biyat Ghat:1003
+Bangka-Belitung Islands:1004
+Shaanxi:1005
+Meghalaya:1006
+North-West Province:1007
+Perlis:1008
+Abu Dhabi:1009
+Tripura:1010
+Davao:1011
+Songkhla:1012
+Hai Phong:1013
+Atacama:1014
+Ratanakiri:1015
+Nakhon Phanom:1016
+Cagayan Valley:1017
+Jiangxi Sheng:1018
+Vrancea:1019
+Doukkala-Abda:1020
+Archipielago de San Andres, Providencia y Santa Catalina:1021
+Alto Parana:1022
+Mordoviya:1023
+Choluteca:1024
+Aveiro:1025
+Ionian Islands:1026
+Cienfuegos:1027
+Brest:1028
+Dix-Huit Montagnes:1029
+Henan Sheng:1030
+Jaroslavl:1031
+Luhansk:1032
+Cetinje:1033
+Kotor:1034
+Pomeranian Voivodeship:1035
+Edirne:1036
+Kavango West:1037
+Daerah Istimewa Yogyakarta:1038
+Kicevo:1039
+Hovd:1040
+Black River:1041
+Neuchatel:1042
+Southern Province:1043
+Ostrobothnia:1044
+Bukhara:1045
+Karakalpakstan:1046
+Yigo:1047
+Bangui:1048
+Idaho:1049
+Alands landsbygd:1050
+Ilfov:1051
+Jilin Sheng:1052
+Sumqayit:1053
+Huanuco:1054
+Bokeo:1055
+Alytaus apskritis:1056
+Sud-Est:1057
+Independencia:1058
+Ba Ria-Vung Tau:1059
+Cabo Delgado:1060
+Borsod-Abauj-Zemplen:1061
+Pskov:1062
+Dolj:1063
+Guaviare:1064
+Arroyo:1065
+Haryana:1066
+Esteli:1067
+Tartus:1068
+Abkhazia:1069
+Oromiya:1070
+Hyogo:1071
+Kagoshima:1072
+Karabuk:1073
+Zanzibar Central/South:1074
+Upper Demerara-Berbice:1075
+Piaui:1076
+Shaki City:1077
+Alands skaergard:1078
+Paramaribo:1079
+Istarska:1080
+Quang Nam:1081
+Samegrelo and Zemo Svaneti:1082
+Nghe An:1083
+Lower Saxony:1084
+Calabarzon:1085
+Cat Island:1086
+Vorarlberg:1087
+Mashonaland East:1088
+Mtwara:1089
+Udmurtiya:1090
+Sakhalin:1091
+East Azerbaijan:1092
+Maramures:1093
+El Oued:1094
+Lorraine:1095
+Vipava:1096
+Paysandu:1097
+Plzensky:1098
+Bursa:1099
+Yamagata:1100
+Lunda Sul:1101
+Niari:1102
+Uppsala:1103
+Kien Giang:1104
+Illizi:1105
+Attica:1106
+Colonia:1107
+Hawaii:1108
+Androy:1109
+Mintaqat al Bahah:1110
+Da Nang:1111
+Kisumu:1112
+Papua:1113
+Risaralda:1114
+Peravia:1115
+Dac Lak:1116
+Chuquisaca:1117
+Central Java:1118
+Bomi:1119
+Mondolkiri:1120
+Al Fujayrah:1121
+Canovanas:1122
+Southern District:1123
+Ngardmau:1124
+Caqueta:1125
+Tadla-Azilal:1126
+Atyrau:1127
+Lampung:1128
+Maluku:1129
+Saint Patrick:1130
+Eskisehir:1131
+Nakuru:1132
+Ninh Binh:1133
+Andaman and Nicobar Islands:1134
+Gomel:1135
+Hunedoara:1136
+Braganca:1137
+Resen:1138
+Gjirokaster:1139
+Mariehamns stad:1140
+Novgorod:1141
+Navoiy:1142
+Neftcala:1143
+Razavi Khorasan:1144
+Culebra:1145
+Istanbul:1146
+Toshkent:1147
+Agstafa:1148
+Kyoto:1149
+Samtskhe-Javakheti:1150
+Jambi:1151
+Sud:1152
+Mtskheta-Mtianeti:1153
+Lima:1154
+Cordillera:1155
+Chimborazo:1156
+Gotland:1157
+Uttarakhand:1158
+Al Buraimi:1159
+Gorj:1160
+Bovec:1161
+Belait:1162
+Nevsehir:1163
+Northern Province:1164
+Dagestan:1165
+Uusimaa:1166
+Lublin Voivodeship:1167
+Wakayama:1168
+Molise:1169
+Voronezj:1170
+West Bank:1171
+Sergipe:1172
+Bac Kan:1173
+Tekirdag:1174
+Hordaland:1175
+Narino:1176
+Nampula:1177
+Vratsa:1178
+Franche-Comte:1179
+Nueva Esparta:1180
+Chhattisgarh:1181
+Ogooue-Lolo:1182
+Opstina Zabljak:1183
+Berane:1184
+Brunei and Muara:1185
+Tizi Ouzou:1186
+Western Province:1187
+Fukien:1188
+Nyamira District:1189
+Incheon:1190
+Bacs-Kiskun:1191
+Hebei:1192
+Samana:1193
+Cotopaxi:1194
+Lavalleja:1195
+Central Equatoria:1196
+Eastern Region:1197
+Est:1198
+Maniema:1199
+Atsimo-Atsinanana:1200
+South Kivu:1201
+Bururi:1202
+Kavango East:1203
+Mayabeque:1204
+Lubombo:1205
+Guadeloupe:1206
+Kampot:1207
+Nabatiye:1208
+Louangphabang:1209
+Kalasin:1210
+Baladiyat az Za`ayin:1211
+Tarija:1212
+Jujuy:1213
+Phatthalung:1214
+Mashonaland Central:1215
+Cuanza Norte:1216
+Lower River:1217
+Pafos:1218
+Tillaberi:1219
+Tobago:1220
+Tunis:1221
+Mbeya:1222
+Commewijne:1223
+Bougainville:1224
+Itapua:1225
+Matabeleland South:1226
+Liban-Sud:1227
+Vaud:1228
+Tete:1229
+Nakhon Pathom:1230
+Basque Country:1231
+Shemgang:1232
+Pointe-Noire:1233
+Praha:1234
+Central Greece:1235
+Antofagasta:1236
+Canary Islands:1237
+Tolmin:1238
+Grodnenskaya:1239
+Northern District:1240
+Lviv:1241
+Constantine:1242
+Kindia:1243
+Gaza Strip:1244
+Uri:1245
+Tripoli:1246
+Alsace:1247
+Ouargla:1248
+Murmansk:1249
+Pailin:1250
+Kajiado:1251
+Chechnya:1252
+Masovian Voivodeship:1253
+Sylhet:1254
+Point Fortin:1255
+Hiroshima:1256
+Ljubljana:1257
+Ulcinj:1258
+Sakha:1259
+Valle:1260
+Khulna:1261
+Katanga:1262
+Pleven:1263
+O'Higgins:1264
+Fribourg:1265
+Republika Srpska:1266
+Kaohsiung:1267
+Jharkhand:1268
+Santiago Rodriguez:1269
+Orjol:1270
+Atlantique:1271
+Hokkaido:1272
+Guna Yala:1273
+Kweneng:1274
+Mayaguez:1275
+Chumphon:1276
+Kujawsko-Pomorskie:1277
+Zanzibar Urban/West:1278
+Southern Savonia:1279
+Gyeongsangbuk-do:1280
+Sanchez Ramirez:1281
+Hunan:1282
+Engure:1283
+Kronoberg:1284
+Qyzylorda:1285
+Barima-Waini:1286
+Quang Ninh:1287
+Khorasan-e Jonubi:1288
+Las Piedras:1289
+Shimane:1290
+Chittagong:1291
+Mandera:1292
+Solola:1293
+Yala:1294
+Samdrup Jongkhar:1295
+Analamanga:1296
+Far Western:1297
+Rukwa:1298
+Mwanza:1299
+Islamabad:1300
+Mizoram:1301
+Quebradillas:1302
+Ciales:1303
+Morovis:1304
+Adjuntas:1305
+Plateau:1306
+Vaupes:1307
+Artigas:1308
+Osun:1309
+St. Elizabeth:1310
+Isla de la Juventud:1311
+Ngoebe-Bugle:1312
+Zulia:1313
+Canelones:1314
+Barceloneta:1315
+Cluj:1316
+Samchi:1317
+Gia Lai:1318
+New Providence:1319
+Geneva:1320
+Bucuresti:1321
+Ocotepeque:1322
+Opole Voivodeship:1323
+Chiba:1324
+Kilimanjaro:1325
+Laayoune-Boujdour-Sakia El Hamra:1326
+Brasov:1327
+Ehime:1328
+Maldonado:1329
+Misto Sevastopol':1330
+Lower Silesian Voivodeship:1331
+Tartu:1332
+Rif-dimashq:1333
+Negeri Sembilan:1334
+Puerto Plata:1335
+Baringo:1336
+Luanda:1337
+Utrecht:1338
+Irbid:1339
+Neamt:1340
+Nagaland:1341
+Tokushima:1342
+Ankara:1343
+Buskerud:1344
+Tehran:1345
+Khmelnytskyi:1346
+Binh Dinh:1347
+Caguas:1348
+Cuando Cubango:1349
+Guangxi Zhuangzu Zizhiqu:1350
+Busan:1351
+Hedmark:1352
+Khabarovsk Krai:1353
+Amur:1354
+Jakarta Raya:1355
+Lambayeque:1356
+Sofia-Capital:1357
+Mures:1358
+Freeport:1359
+Junin:1360
+Ulaanbaatar:1361
+Golestan:1362
+Bayan-Olgiy:1363
+Denizli:1364
+Exuma:1365
+Kyustendil:1366
+Sofiya:1367
+Cascade:1368
+Nairobi Area:1369
+Basel-City:1370
+Beau Vallon:1371
+Caazapa:1372
+Enga:1373
+Uthai Thani:1374
+Thanh Hoa:1375
+Viseu:1376
+Saxony-Anhalt:1377
+Aqmola:1378
+Flanders:1379
+Hajdu-Bihar:1380
+Drenthe:1381
+Lovech:1382
+Pattani:1383
+Vichada:1384
+Tucuman:1385
+Fujian:1386
+Plovdiv:1387
+Tafielah:1388
+Sikkim:1389
+Halland:1390
+Liaoning:1391
+Sangha:1392
+South Kalimantan:1393
+Samut Songkhram:1394
+Jaemtland:1395
+San Marcos:1396
+Malaita:1397
+Arauca:1398
+Asan:1399
+Utuado:1400
+Central Abaco:1401
+Dhaka:1402
+Ennedi-Est:1403
+Azua:1404
+Los Lagos:1405
+Central District:1406
+Potosi:1407
+Ashanti:1408
+Saint David:1409
+Isfahan:1410
+Dojran:1411
+Macau:1412
+Riviere du Rempart:1413
+Phnom Penh:1414
+Zurich:1415
+Semnan:1416
+Lorestan:1417
+Khuzestan:1418
+Ilam:1419
+Burdur:1420
+Maale:1421
+Merida:1422
+Thuringia:1423
+Taranaki:1424
+Swietokrzyskie:1425
+Liberecky:1426
+Pest:1427
+Laghouat:1428
+Mila:1429
+Clarendon:1430
+Ardabil:1431
+Budapest:1432
+Berat:1433
+Pwani:1434
+Bihar:1435
+Alborz:1436
+Hincesti:1437
+Jutiapa:1438
+Diber:1439
+Arges:1440
+Kemerovo:1441
+Maunabo:1442
+Dubrovacko-Neretvanska:1443
+Monsenor Nouel:1444
+Sogn og Fjordane:1445
+Niamey:1446
+Yamaguchi:1447
+Vaisigano:1448
+Washington, D.C.:1449
+Saare:1450
+Vest-Agder:1451
+Sisacko-Moslavacka:1452
+Wyoming:1453
+Dar es Salaam:1454
+Maribor:1455
+Umm al Qaywayn:1456
+Essequibo Islands-West Demerara:1457
+Giurgiu:1458
+Gagaifomauga:1459
+Santiago:1460
+Saitama:1461
+Vaermland:1462
+Municipio de Juncos:1463
+Intibuca:1464
+Kostel:1465
+Lagos:1466
+Nickerie:1467
+San Cristobal:1468
+Vallee du Bandama:1469
+Alba:1470
+Humacao:1471
+Dnipropetrovsk:1472
+Rhode Island:1473
+Mie:1474
+Sham Shui Po:1475
+Sukhothai:1476
+Durres:1477
+City of Port of Spain:1478
+Guayanilla:1479
+Kinshasa:1480
+Bas-Congo:1481
+Changwat Udon Thani:1482
+Chimaltenango:1483
+Oslo:1484
+Oshikoto:1485
+Mongmong-Toto-Maite:1486
+San Sebastian:1487
+Guainia:1488
+Magway:1489
+South Sumatra:1490
+Villa Clara:1491
+Tabora:1492
+Bengkulu:1493
+Flores:1494
+Tungurahua:1495
+Cargados Carajos:1496
+Baja Verapaz:1497
+Saint Ann:1498
+Stavropol'skiy:1499
+Copan:1500
+Paernumaa:1501
+Schleswig-Holstein:1502
+Barrigada:1503
+Hormigueros:1504
+Niigata:1505
+Khaskovo:1506
+Pardubicky:1507
+Khorasan-e Shomali:1508
+Grad Zagreb:1509
+Maputo City:1510
+Daraa:1511
+Tovuz:1512
+Chachoengsao:1513
+Aichi:1514
+El Progreso:1515
+Xinjiang Uygur Zizhiqu:1516
+Sacatepequez:1517
+Slovenska Bistrica:1518
+Heves:1519
+Kordestan:1520
+Shanghai Shi:1521
+Konya:1522
+Vilnius County:1523
+Vestfold:1524
+Namangan:1525
+Bohinj:1526
+Ar Riyad:1527
+Kurdzhali:1528
+Kedougou:1529
+Preah Sihanouk:1530
+Nograd:1531
+Sakon Nakhon:1532
+Haeme:1533
+Iwate:1534
+Crnomelj:1535
+Osilnica:1536
+Matagalpa:1537
+Punjab:1538
+Kochi:1539
+Brong-Ahafo:1540
+Bamako:1541
+Saint Thomas Island:1542
+Adygeya:1543
+Dili:1544
+Chaiyaphum:1545
+Salinas:1546
+Grevenmacher:1547
+Ondo:1548
+Aomori:1549
+Struga:1550
+Ilirska Bistrica:1551
+Mardin:1552
+Lubusz:1553
+Piura:1554
+Dambovita:1555
+Katavi:1556
+Blue Nile:1557
+Bratislavsky:1558
+Amman:1559
+Joenkoeping:1560
+Pamplemousses:1561
+Buriram:1562
+Dalarna:1563
+Kashmir:1564
+Teleorman:1565
+Gifu:1566
+Trnavsky:1567
+Equateur:1568
+Penal/Debe:1569
+Chhukha:1570
+Salto:1571
+Treinta y Tres:1572
+Isiolo:1573
+Taita Taveta:1574
+Kvemo Kartli:1575
+Yamanashi:1576
+Luapula:1577
+Dubai:1578
+San Jose de Ocoa:1579
+Borgou:1580
+Il-Qala:1581
+Hainan:1582
+Shanxi Sheng:1583
+Centro Sur:1584
+Dededo:1585
+Shan:1586
+La Romana:1587
+Thies:1588
+Sistan and Baluchestan:1589
+Makueni:1590
+Muhafazat Masqat:1591
+Baladiyat ad Dawhah:1592
+Shiselweni:1593
+Kampong Thom:1594
+Trarza:1595
+Ilocos:1596
+Azuay:1597
+Butha-Buthe:1598
+Putrajaya:1599
+Alagoas:1600
+La Altagracia:1601
+Bandundu:1602
+Westmoreland:1603
+South East:1604
+Basra Governorate:1605
+Corozal:1606
+Sindh:1607
+Muhafazat al Jahra':1608
+Zhambyl:1609
+Lop Buri:1610
+Lao Cai:1611
+Ha Noi:1612
+Autonomna Pokrajina Vojvodina:1613
+Haute-Normandie:1614
+South Holland:1615
+Horjul:1616
+Osjecko-Baranjska:1617
+Pristina:1618
+Veliko Turnovo:1619
+West Macedonia:1620
+Shumen:1621
+Bie:1622
+Carchi:1623
+Obwalden:1624
+Tacuarembo:1625
+Armavir:1626
+Zug:1627
+Schwyz:1628
+Warmian-Masurian Voivodeship:1629
+Kauno apskritis:1630
+Cuanza Sul:1631
+Camuy:1632
+Kyiv City:1633
+Tanger-Tetouan:1634
+Hwanghae-namdo:1635
+Panevezys:1636
+Prizren:1637
+Fier:1638
+Cajamarca:1639
+Balkan:1640
+Toyama:1641
+Brodsko-Posavska:1642
+Northern Mindanao:1643
+Lapland:1644
+Anhui Sheng:1645
+Nagano:1646
+Chirang:1647
+Mersin:1648
+Kigali:1649
+Mid Western:1650
+Nagasaki:1651
+Klaipedos apskritis:1652
+Oita:1653
+Chelyabinsk:1654
+Loska Dolina:1655
+Saarland:1656
+Rason:1657
+Karak:1658
+Phu Tho:1659
+Yen Bai:1660
+Ibaraki:1661
+Opstina Kolasin:1662
+Inner Mongolia:1663
+Gabrovo:1664
+Pomeroon-Supenaam:1665
+Tiaret:1666
+Djelfa:1667
+Hentiy:1668
+Haut-Ogooue:1669
+Southern Kordofan:1670
+Saga Prefecture:1671
+Gorje:1672
+Kurgan:1673
+Airai:1674
+Hama:1675
+Zakarpattia:1676
+Gunma:1677
+Divaca:1678
+Kano:1679
+Babil:1680
+Naryn:1681
+Karlovarsky:1682
+Norrbotten:1683
+Punakha:1684
+Virovitick-Podravska:1685
+Marijampoles apskritis:1686
+Guria:1687
+Rezekne:1688
+Dobrich:1689
+Utenos apskritis:1690
+St.-Petersburg:1691
+Thurgau:1692
+Kagawa:1693
+Phitsanulok:1694
+Ingushetiya:1695
+Quetzaltenango:1696
+Nabul:1697
+Blekinge:1698
+Ho Chi Minh City:1699
+Bled:1700
+Timis:1701
+Prince Edward Island:1702
+Machakos:1703
+Yangon:1704
+Chisinau:1705
+Al Buhayrah:1706
+Csongrad:1707
+Samut Sakhon:1708
+Al Muthanna:1709
+La Habana:1710
+Samsun:1711
+Govi-Sumber:1712
+La Massana:1713
+Zamboanga Peninsula:1714
+Agdam:1715
+Ngarchelong:1716
+Metro Manila:1717
+Chontales:1718
+Tirane:1719
+Braila:1720
+Taurages apskritis:1721
+Portuguesa:1722
+Yazd:1723
+Plateaux:1724
+Cao Bang:1725
+Kumamoto:1726
+Maha Sarakham:1727
+Ammochostos:1728
+Western Area:1729
+Makira:1730
+Melekeok:1731
+Siazan Rayon:1732
+Ain Temouchent:1733
+Salyan:1734
+Qacha's Nek:1735
+Pemagatsel:1736
+North-Western:1737
+Jigawa:1738
+Saint Lawrence:1739
+North Andros:1740
+Melilla:1741
+Lagunes:1742
+Carabobo:1743
+North East:1744
+Mangilao:1745
+Geylegphug:1746
+Manu'a:1747
+Suchitepeque:1748
+Anasco:1749
+Grand Port:1750
+Ouest:1751
+Central Eleuthera:1752
+Baa Atholhu:1753
+Saint John Capesterre:1754
+Zanzan:1755
+Musandam:1756
+Mono:1757
+Soc Trang:1758
+Lower Shabeelle:1759
+Hatillo:1760
+Takamaka:1761
+Ben Tre:1762
+Tutong:1763
+Salamat:1764
+Liban-Nord:1765
+Kerman:1766
+Riga:1767
+Saint Michael:1768
+Ivano-Frankivsk:1769
+Ceuta:1770
+Al Ahmadi:1771
+Kep:1772
+Cabinda:1773
+Aguada:1774
+Setif:1775
+Iasi:1776
+Lija:1777
+La Vega:1778
+Tongsa:1779
+Gilan:1780
+Podgorica:1781
+Solothurn:1782
+Gurabo:1783
+Silistra:1784
+Moravskoslezsky:1785
+Polvamaa:1786
+Marowijne:1787
+Suceava:1788
+Caras-Severin:1789
+Arbil:1790
+Western Highlands:1791
+East Berbice-Corentyne:1792
+Diekirch:1793
+Rize:1794
+Vienna:1795
+Novo Mesto:1796
+Cerknica:1797
+Kaliningrad:1798
+Cabanas:1799
+Dadra and Nagar Haveli:1800
+Okayama:1801
+Lozovo:1802
+Qinghai Sheng:1803
+Komarom-Esztergom:1804
+Satakunta:1805
+Shiga Prefecture:1806
+Chandigarh:1807
+Savanes:1808
+Garkalne:1809
+Sigulda:1810
+Tula:1811
+Vas:1812
+Southern Ostrobothnia:1813
+Luxembourg:1814
+Danilovgrad:1815
+Catano:1816
+Kratie:1817
+Krasnoyarskiy:1818
+Zonguldak:1819
+Zelenikovo:1820
+Manisa:1821
+Kavadarci:1822
+Artvin:1823
+Abuja Federal Capital Territory:1824
+Guizhou Sheng:1825
+Villalba:1826
+Dagda:1827
+Hubei:1828
+T'bilisi:1829
+Ialomita:1830
+Kabardino-Balkariya:1831
+Ig:1832
+Cayey:1833
+Balikesir:1834
+Carnikava:1835
+Saramacca:1836
+Vukovarsko-Srijemska:1837
+Kitui:1838
+Glarus:1839
+Latakia:1840
+Bitola:1841
+Daugavpils:1842
+Zala:1843
+Grobina:1844
+Xiangkhoang:1845
+Vysocina:1846
+Flevoland:1847
+Nord-Pas-de-Calais:1848
+Princes Town:1849
+East Grand Bahama:1850
+Seoul:1851
+Kachin:1852
+Darhan Uul:1853
+Arhangay:1854
+Paraguari:1855
+Laeaene:1856
+Granma:1857
+Dingli:1858
+Bijelo Polje:1859
+Mandalay:1860
+Lipetsk:1861
+Zambezia:1862
+Soccsksargen:1863
+Saint Croix Island:1864
+Osaka:1865
+Tambov:1866
+Kanal:1867
+Ahal:1868
+Annaba:1869
+Central Finland:1870
+Friesland:1871
+Studenicani:1872
+Morazan:1873
+Ishikawa:1874
+Manati:1875
+Batna:1876
+Aakkar:1877
+Homs:1878
+Cuvette:1879
+East Sepik:1880
+Maritime:1881
+Ra's al Khaymah:1882
+Ohrid:1883
+Pondicherry:1884
+Sibiu:1885
+Noonu Atoll:1886
+Saint Andrew:1887
+City of San Fernando:1888
+An Giang:1889
+Funafuti:1890
+Siparia:1891
+Siaya:1892
+Adamawa:1893
+Pursat:1894
+Rivne:1895
+Fajardo:1896
+Luquillo:1897
+Benguela:1898
+Ayacucho:1899
+Concepcion:1900
+Saint Mark:1901
+Bayamon:1902
+Trujillo Alto:1903
+Lamu:1904
+Yobe:1905
+Koulikoro:1906
+Espaillat:1907
+Al Wakrah:1908
+Ninh Thuan:1909
+West Grand Bahama:1910
+Centre-Sud:1911
+Mokhotlong:1912
+Santo Domingo:1913
+Sumy:1914
+Sverdlovsk:1915
+Bordj Bou Arreridj:1916
+Adamaoua:1917
+Coamo:1918
+San Lorenzo:1919
+Calarasi:1920
+Moravce:1921
+Markazi:1922
+Brezice:1923
+Berlin:1924
+Vega Alta:1925
+Grand Casablanca:1926
+Pec:1927
+Mariy-El:1928
+Lucerne:1929
+Kranj:1930
+Pazardzhik:1931
+Gostivar:1932
+Kainuu:1933
+Chalatenango:1934
+Arkhangelskaya:1935
+Moscow:1936
+Basel-Landschaft:1937
+Kastamonu:1938
+Yalova:1939
+Muharraq:1940
+Vaestmanland:1941
+Borno:1942
+Fukushima:1943
+Las Marias:1944
+Northern Savo:1945
+Skofljica:1946
+Arad:1947
+Kampong Chhnang:1948
+Ismayilli:1949
+Hamburg:1950
+Jura:1951
+Ivanovo:1952
+Xacmaz:1953
+Rabat-Sale-Zemmour-Zaer:1954
+Tlemcen:1955
+Anzoategui:1956
+Tolna:1957
+Kirklareli:1958
+Ljubno:1959
+Ruse:1960
+Banaadir:1961
+Yambol:1962
+Vaesternorrland:1963
+Medvode:1964
+Herceg Novi:1965
+Laeaene-Virumaa:1966
+Race-Fram:1967
+Viljandimaa:1968
+Tachira:1969
+Kiambu:1970
+Skikda:1971
+Respublika Buryatiya:1972
+Peleliu:1973
+Kaluga:1974
+Jalapa:1975
+Saint Catherine:1976
+Telemark:1977
+Pernik:1978
+Tel Aviv:1979
+Nova Gorica:1980
+Diyarbakir:1981
+Miyazaki:1982
+Piran-Pirano:1983
+La Union:1984
+Dajabon:1985
+Tottori:1986
+Bauskas Rajons:1987
+Saint Paul's Bay:1988
+Postojna:1989
+Santa Rosa:1990
+Nassarawa:1991
+Iles du Vent:1992
+Krapinsko-Zagorska:1993
+Talas:1994
+Bulgan:1995
+Batys Qazaqstan:1996
+Saipan:1997
+Viloyati Sughd:1998
+Sinop:1999
+Suphan Buri:2000
+Raa Atoll:2001
+Vaesterbotten:2002
+Dhaalu Atholhu:2003
+Bac Lieu:2004
+Trujillo:2005
+Jasz-Nagykun-Szolnok:2006
+Manipur:2007
+Muhafazat al Qalyubiyah:2008
+Groningen:2009
+Saulkrastu:2010
+Gyor-Moson-Sopron:2011
+Siauliu apskritis:2012
+Gaziantep:2013
+Kabul:2014
+Wangdi Phodrang:2015
+Adiyaman:2016
+Vidin:2017
+Changwat Bueng Kan:2018
+Changwat Nong Bua Lamphu:2019
+Wilaya de Naama:2020
+Nandi:2021
+Tay Ninh:2022
+Bel Ombre:2023
+Ogre:2024
+San Pedro de Macoris:2025
+Woleu-Ntem:2026
+Montevideo:2027
+Omaheke:2028
+Inarajan:2029
+Apurimac:2030
+Canar:2031
+Duarte:2032
+Nyandarua:2033
+Penuelas:2034
+Vega Baja:2035
+Lares:2036
+Soriano:2037
+Binh Duong:2038
+Huancavelica:2039
+Rajshahi:2040
+Brazzaville:2041
+Ica:2042
+Quthing:2043
+Sinoe:2044
+Guaira:2045
+Cabo Rojo:2046
+Chaouia-Ouardigha:2047
+Hodos-Hodos:2048
+Kuzma:2049
+Harbour Island:2050
+Guaynabo:2051
+Kuetahya:2052
+Ikskile:2053
+Mus:2054
+Toa Alta:2055
+Akita:2056
+Vaslui:2057
+Leon:2058
+Cidra:2059
+Baranya:2060
+Northland:2061
+Fes-Boulemane:2062
+As Sulaymaniyah:2063
+Nord-Trondelag:2064
+Kratovo:2065
+Sliven:2066
+Tomsk:2067
+Gevgelija:2068
+Jezersko:2069
+Tjumen:2070
+Borovnica:2071
+Valcea:2072
+Koprivnicko-Krizevacka:2073
+Karpos:2074
+Botosani:2075
+Appenzell Innerrhoden:2076
+Raplamaa:2077
+Biskra:2078
+Salacgrivas:2079
+Khenchela:2080
+Rucavas:2081
+Samux:2082
+Vargas:2083
+Attapu:2084
+Sor-Trondelag:2085
+Phu Yen:2086
+Elazig:2087
+Trashi Yangste:2088
+Changwat Ubon Ratchathani:2089
+Imereti:2090
+Cerkno:2091
+Taza-Al Hoceima-Taounate:2092
+Nica:2093
+Giresun:2094
+Liepaja:2095
+Oio:2096
+Dahuk:2097
+Arica y Parinacota:2098
+Pavilostas:2099
+Valgamaa:2100
+San German:2101
+Yauco:2102
+Bago:2103
+Ziri:2104
+Umatac:2105
+Faranah:2106
+Maricao:2107
+Bihor:2108
+Lacs:2109
+Donga:2110
+Recica ob Savinji:2111
+Tyva:2112
+Idrija:2113
+Ajdovscina:2114
+Kandava:2115
+Ardahan:2116
+Fiorentino:2117
+Gaza:2118
+Ordu:2119
+Chiquimula:2120
+Cerklje na Gorenjskem:2121
+Ekiti:2122
+Riau Islands:2123
+Auces Novads:2124
+Taraba:2125
+Vrhnika:2126
+Naranjito:2127
+Phrae:2128
+Smolensk:2129
+Szabolcs-Szatmar-Bereg:2130
+Roi Et:2131
+Delta:2132
+Salaj:2133
+Velika Polana:2134
+Tana River:2135
+Komen:2136
+Carolina:2137
+Queme:2138
+Qobustan:2139
+Volta:2140
+Mukdahan:2141
+Moca:2142
+Municipio de Jayuya:2143
+Al Jawf:2144
+Caaguazu:2145
+Isabela:2146
+Tibet Autonomous Region:2147
+Maputo:2148
+Ponce:2149
+Phichit:2150
+Ang Thong:2151
