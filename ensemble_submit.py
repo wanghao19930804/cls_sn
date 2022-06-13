@@ -6,13 +6,15 @@ from config import *
 
 
 # v13 91.00
-backbones = ['eca_nfnet_l2', 'tf_efficientnet_b7_ns']
-weights = [0.6, 0.4]
+#backbones = ['eca_nfnet_l2', 'tf_efficientnet_b7_ns']
+#weights = [0.6, 0.4]
 
 
 #backbones = ['eca_nfnet_l2', 'eca_nfnet_l1', 'tf_efficientnet_b7_ns']
 #weights = [0.4, 0.3, 0.3]
 
+backbones = ['eca_nfnet_l2', 'swin_base_patch4_window7_224_in22k']
+weights = [0.5, 0.5]
 
 
 

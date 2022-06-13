@@ -34,6 +34,7 @@ cv2.setNumThreads(0)
 
 class Cfg():
     def __init__(self):
+        #self.root = '../input/snakeclef2022'
         self.root = './input'
 
         self.use_TTA = False
@@ -67,7 +68,7 @@ class Cfg():
         self.fold = 0
         
         self.max_epoch = 20
-        self.warmup_iters = 500
+        self.warmup_iters = 300
         
 
         self.arcface_m_x =  0.45
@@ -89,10 +90,10 @@ class Cfg():
         self.embedding_size = 512
 
         self.samples_per_gpu = 32
-        self.workers_per_gpu = 8
+        self.workers_per_gpu = 16
         
         
-        self.info = f'{self.image_size}'
+        self.info = f''
 
         if self.use_all_data:
             self.info += '+all_data'
@@ -112,10 +113,6 @@ class Cfg():
         
         
         
-   
-        
-
-
 
 
 

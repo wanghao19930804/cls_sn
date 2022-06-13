@@ -1,1 +1,1 @@
-CUDA_VISIBLE_DEVICES=0,1,2,3,4,5,6,7 python -m torch.distributed.launch --nproc_per_node=8 --master_port 8911 submit.py --checkpoint_path 'work_dirs/2022-06-06/swin_base_patch4_window7_224_in22k-0.0001-224/2022-06-06_22:42:08/swin_base_patch4_window7_224_in22k-fold0_epoch_20'
+CUDA_VISIBLE_DEVICES=0,1,2,3,4,5,6,7 python -m torch.distributed.launch --nproc_per_node=8 --master_port 8911 submit.py --checkpoint_path 'work_dirs/2022-06-13/eca_nfnet_l2-0.0001-224+all_data/2022-06-13_08:02:33/eca_nfnet_l2-fold0_epoch_10' --backbone 'eca_nfnet_l2' --image_size 736 --use_meta

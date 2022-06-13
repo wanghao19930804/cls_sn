@@ -405,8 +405,8 @@ def test_dist(model, data_loader, cfg):
 	all_probs = all_probs[sort_df_index, :]
 	all_observation_ids = all_observation_ids[sort_df_index]	
 
-	np.save(f'submits/features/{cfg.backbone}_{cfg.image_size}_probs.npy', all_probs)
-	np.save(f'submits/features/{cfg.backbone}_{cfg.image_size}_observation_ids.npy', all_observation_ids)
+	np.save(f'submits/features/{cfg.backbone}_probs.npy', all_probs)
+	np.save(f'submits/features/{cfg.backbone}_observation_ids.npy', all_observation_ids)
 
 
 
@@ -469,8 +469,8 @@ def test_dist(model, data_loader, cfg):
 
 def test(args, cfg):
     	
-	cfg.samples_per_gpu = 8
-	cfg.workers_per_gpu = 4
+	cfg.samples_per_gpu = 16
+	cfg.workers_per_gpu = 8
 	cfg.use_TTA = True
 
 	#### build data_loader

@@ -140,7 +140,7 @@ def train(args, cfg):
 
 if __name__ == '__main__':
 
-	seed_everything(42)
+	seed_everything(44)
 	cv2.setNumThreads(0)
 
 	parser = argparse.ArgumentParser()	
