@@ -10,6 +10,7 @@ input/SnakeCLEF2022-TestMetadata.csv<br/>
 <br/>
 
 ### requirements
+python3.9<br/>
 torch==1.9.1+cu111<br/>
 torchvision==0.10.1+cu111
 numpy==1.22.2<br/>
@@ -19,7 +20,7 @@ albumentations==1.1.0<br/>
 timm==0.5.4<br/>
 torch-scatter==2.0.9<br/>
 tqdm==4.63.0<br/>
-...
+...<br/>
 If there is a library that is not in the list, you just need to pip install it.
 
 <br/>
